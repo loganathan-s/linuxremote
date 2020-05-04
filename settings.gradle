@@ -1,0 +1,2 @@
+rootProject.name='GotoRoomControl'
+include ':app'

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">linuxcontrol</string>
+    <string name="available_rooms">Available Rooms</string>
+</resources>
